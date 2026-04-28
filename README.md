@@ -10,6 +10,9 @@
 - 💻 Estudiante de programación
 - 🌐 Enfocado en desarrollo web (HTML, CSS, JavaScript)
 - 🚀 Construyendo proyectos y mejorando cada día
+- ## ❤️ Heart On Your Sleeve
+
+I build with passion and wear my heart on my sleeve.
 <br>
 
 # Herramientas educativas
