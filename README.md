@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/Martita9999/Martita9999/main/banner_git.png">
 
-## ❤️ Corazón en la Manga
 ## Sobre mi
 
 - 💻 Estudiante de programación
